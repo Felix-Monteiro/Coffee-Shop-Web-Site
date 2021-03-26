@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta name="viewport" content="width=device-width">
+	<meta name="description" content="Virtual Coffee website">
+	<meta name="keywords" content="Coffee, description, Review">
+	<meta name="author" content="Felix Saraiva">
+
+	<title>Coffee Shop | Welcome</title>
+	<link rel="stylesheet" href="./css/style.css">
+</head>
+<body>
+	<header>
+		<div class="container">
+			<div id="branding">
+				<h1>Coffee Shop</h1>
+			</div>
+			<nav>
+				<ul>
+					<li><a href="index.html"></a>Home</li>
+					<li><a href="about.html"></a>Home</li>
+					<li><a href="service.html"></a>Home</li>
+					<li><a href="page4.html"></a>Home</li>
+					<li><a href="page5.html"></a>Home</li>
+					<li><a href="page6.html"></a>Home</li>
+				</ul>
+			</nav>
+		</div>
+	</header>
+
+	<section id="showcase">
+		<div class="container">
+			<h1>Best Coffee Of the world</h1>
+			<p>In this video we will build a clean coded responsive mobile friendly HTML5 website for a fictional web design company. We will go over semantic HTML tags like header and footer as well as the</p>
+		</div>
+	</section>
+	<section id="newsletter">
+		<div class="container">
+			<h1>Suscribe to Our Newsletter</h1>
+			<form>
+				<input type="email" placeholder="Enter Email...">
+				<button type="submit" class="button_1">Subscribe</button>
+				
+			</form>
+			
+		</div>
+		
+	</section>
+	<section id="boxes">
+		<div class="container">
+			<div class="box">
+				<img src="./img/logo_reward.png">
+				<h3>Best cofee of the Year Reward</h3>
+				<p>In this video we will build a clean coded responsive mobile friendly HTML5 website for a fictional web design company. We will go over semantic HTML ta</p>
+			</div>
+			<div class="box">
+				<h3>Brand of the year</h3>
+				<p>In this video we will build a clean coded responsive mobile friendly HTML5 website for a fictional web design company. We will go over semantic HTML ta</p>
+			</div>
+
+            <div class="box">
+				<h3>qualquer merda que seja fixe</h3>
+				<p>In this video we will build a clean coded responsive mobile friendly HTML5 website for a fictional web design company. We will go over semantic HTML ta</p>
+			</div>
+
+
+		</div>
+		
+	</section>
+
+</body>
+</html>
